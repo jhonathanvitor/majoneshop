@@ -45,6 +45,16 @@ export default {
       name: 'largeText2',
       title: 'LargeText2',
       type: 'string',
+    },
+    {
+      name: 'discount',
+      title: 'Discount',
+      type: 'string',
+    },
+    {
+      name: 'saleTime',
+      title: 'SaleTime',
+      type: 'string',   
     }
   ]
 }
